@@ -19,7 +19,7 @@ Write the C Program using Linux Process API - Shared Memory
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-DEVELOPED BY: V APTRICK ALEX EMMANUEL
+DEVELOPED BY: V PATRICK ALEX EMMANUEL
 
 REG.NO:212224240110
 ## Write a C program that illustrates two processes communicating using shared memory.
